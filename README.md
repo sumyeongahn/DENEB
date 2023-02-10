@@ -1,6 +1,6 @@
 ## DENEB: Denoiseing after Entropy based Denoising (AAAI' 23)
 
-[Arxiv](https://arxiv.org/abs/2212.01189)  
+[OpenReview]()  
 Sumyeiong Ahn, Se-Young Yun  (KAIST AI)
 
 
